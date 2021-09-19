@@ -56,7 +56,7 @@ except ValueError:
 class Wsheet:
     """Calculated the weight of sheet metal."""
 
-    def __init__(self, wi=0, le=0, th=0.0):
+    def __init__(self, wi: int, le: int, th: float):
         """
         width: The width of the sheet. Should be integer. Default is 0.
         length: The length of the sheet. Should be integer. Default is 0.
