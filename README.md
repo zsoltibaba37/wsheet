@@ -1,5 +1,7 @@
 ## Weight of sheet metal 
 
+- Next update: Get data from file
+
 ```sh
 > ./wsheet.py 2000 1000 3
 
